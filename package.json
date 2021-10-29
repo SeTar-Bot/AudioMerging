@@ -12,6 +12,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "fluent-ffmpeg": "^2.1.2"
+    "fluent-ffmpeg": "^2.1.2",
+    "lodash.merge": "^4.6.2"
   }
 }
