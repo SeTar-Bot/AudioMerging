@@ -9,5 +9,8 @@
     "email": "ehsan8184@gmail.com",
     "url": "https://ehsan.js.org"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
 }
