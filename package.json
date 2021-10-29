@@ -1,0 +1,13 @@
+{
+  "name": "audiomerging",
+  "version": "1.0.0",
+  "description": "a Promise-based Module for merging Audios",
+  "main": "index.js",
+  "keywords": [],
+  "author": {
+    "name": "Ehsan Fox",
+    "email": "ehsan8184@gmail.com",
+    "url": "https://ehsan.js.org"
+  },
+  "license": "MIT"
+}
