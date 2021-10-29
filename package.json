@@ -1,6 +1,7 @@
 {
   "name": "audiomerging",
   "version": "1.0.0",
+  "type": "module",
   "description": "a Promise-based Module for merging Audios",
   "main": "index.js",
   "keywords": [],
